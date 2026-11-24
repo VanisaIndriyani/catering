@@ -1,0 +1,10 @@
+Logo Catering Calakan diletakkan di folder ini.
+
+File yang dikenali:
+- public/img/logo.png
+- public/img/logo.jpg
+- public/img/logo.jpeg
+- public/img/logo.webp
+- public/img/logo.svg
+
+Boleh juga public/img/logo/logo.png
